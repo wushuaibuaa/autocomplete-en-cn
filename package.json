@@ -2,7 +2,7 @@
   "name": "autocomplete-en-cn",
   "main": "./lib/autocomplete-en-cn",
   "version": "0.1.0",
-  "description": "English word autocompetion with Chinese meaning",
+  "description": "English word autocompetion with Chinese explanation",
   "repository": "https://github.com/wushuaibuaa/autocomplete-en-cn.git",
   "license": "MIT",
   "engines": {
