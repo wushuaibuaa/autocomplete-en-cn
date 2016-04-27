@@ -1,7 +1,7 @@
 {
   "name": "autocomplete-en-cn",
   "main": "./lib/autocomplete-en-cn",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "English word autocompetion with Chinese meaning",
   "repository": "https://github.com/wushuaibuaa/autocomplete-en-cn.git",
   "license": "MIT",
@@ -16,7 +16,7 @@
     }
   },
   "dependencies": {
-      "fuzzaldrin": "^2.1.0"
+    "fuzzaldrin": "^2.1.0"
   },
   "providedServices": {
     "autocomplete.provider": {
