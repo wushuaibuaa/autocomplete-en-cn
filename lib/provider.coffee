@@ -35,5 +35,6 @@ module.exports =
       {
         text: word
         rightLabel: @properties[word].description
+        description: @properties[word].description
         replacementPrefix: prefix
       }
