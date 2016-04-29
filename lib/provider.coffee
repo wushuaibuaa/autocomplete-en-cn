@@ -1,4 +1,4 @@
-{ BufferedProcess } = require 'atom'
+# { BufferedProcess } = require 'atom'
 fs = require 'fs'
 path = require 'path'
 fuzzaldrin = require 'fuzzaldrin'

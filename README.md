@@ -18,3 +18,6 @@ To enable completion for your current file type: put your cursor in the file, op
 
 # Acknowledgement
 Inspired by [autocomplete-APPLEASMx64](https://github.com/OrionNebula/autocomplete-APPLEASMx64).
+
+# License
+[MIT](hhttps://github.com/wushuaibuaa/autocomplete-en-cn/blob/master/LICENSE.md) © [Shuai Wu](https://github.com/wushuaibuaa)
