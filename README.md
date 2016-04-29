@@ -1,4 +1,3 @@
-# autocomplete-en-cn package
 
 # Introduction 介绍
 An [autocomplete-plus](https://github.com/atom/autocomplete-plus) provider completing English words with the hint of Chinese explanation.

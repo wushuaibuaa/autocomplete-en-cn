@@ -9,6 +9,13 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
+  "keywords": [
+    "autocomplete",
+    "English",
+    "words",
+    "Chinese",
+    "fuzzy",
+  ],
   "configSchema": {
     "FileType": {
       "type": "string",
